@@ -2,7 +2,7 @@
 int main()
 {
 	int a=0;
-	printf("ÇëÊäÈëaµÄÖµ");
+	printf("è¾“å…¥");
 	scanf("%d",&a);
 	printf("a=%d",a);
 	
